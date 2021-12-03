@@ -45,4 +45,6 @@
     <!-- Default value for Horizon light color (Blue) -->
     <integer name="config_AmbientPulseLightColor">0x3980FF</integer>
 
+    <!-- NightLight FOD -->
+    <bool name="disable_fod_night_light">true</bool>
 </resources>

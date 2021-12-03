@@ -45,4 +45,6 @@
     <!-- Horizon Light -->
     <java-symbol type="integer" name="config_AmbientPulseLightColor" />
 
+    <!-- NightLight FOD -->
+    <java-symbol type="bool" name="disable_fod_night_light"/>
 </resources>

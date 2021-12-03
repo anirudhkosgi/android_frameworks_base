@@ -5392,6 +5392,12 @@ public final class Settings {
         public static final String AMBIENT_NOTIFICATION_LIGHT = "ambient_notification_light";
 
         /**
+         * FOD night light
+         * @hide
+         */
+        public static final String FOD_NIGHT_LIGHT = "fod_night_light";
+
+        /**
          * @hide
          */
         public static final String AMBIENT_NOTIFICATION_LIGHT_AUTOMATIC = "ambient_notification_light_automatic";
